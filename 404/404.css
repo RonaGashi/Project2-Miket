@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.background {
+    background-image: url(../Fotot/Background/main_background.jpg); 
+    background-size: cover;  
+    background-position: center;  
+    height: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center;  
+    text-align: center; 
+}
+.content {
+    color: white; 
+    font-size: 34px;  
+    padding: 20px;  
+    border-radius: 8px;  
+    width: 50%;
+}
